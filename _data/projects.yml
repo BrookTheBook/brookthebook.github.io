@@ -1,20 +1,25 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Personal Website
+  event: Enlight Web Development Cohort
+  date: Fall 2020 - Cohort 4
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: JavaScript Calculator
+  event: Enlight Web Development Cohort
+  date: Fall 2020 - Cohort 4
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+- title: New York Times News Headlines using the New York Times API
+  event: Enlight Web Development Cohort
+  date: Fall 2020 - Cohort 4
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: Real time Chat App
+  event: Enlight Web Development Cohort
+  date: Fall 2020 - Cohort 4
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
+- title: JavaScript Snake Game
+  event: Enlight Web Development Cohort
+  date: Fall 2020 - Cohort 4
+  page-name: sprint1
+  
+- title: Christmas Music Player
+  event: Personal
+  date: December 2020
   page-name: sprint1
