@@ -1,5 +1,5 @@
 ---
-title: Sprint 1 Project
+title: JavaScript Snake Game
 layout: page
 ---
 
