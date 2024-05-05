@@ -1,20 +1,20 @@
 ---
-title: JavaScript Snake Game
+title: News Headlines with an API
 layout: page
 ---
 
 ## Inspiration
 
-This was supposed to be the Capstone for this Course, so I created a game that I knew everyone loved!
+The main inspiration I had while creating this was to learn how to use APIs and utilize them to create programs.
 
 ## What it does
 
-It follows the same controls as the Snake Game, but once you run into the wall, you have to press the button at the bottom to reset the game.
+It searches through the New York Times API and displays the image, link and a description of 35+ of New York Times' most recent stories.
 
 ## How we built it
 
-I followed a tutorial over how to do it. It used mainly JavaScript.
+This program calls on the NY Times API and calls on the image, link and descriptions of the 35+ most recent and displays them in a certain format.
 
 ## Challenge we ran into
 
-The only challenge I ran into was resetting the game. I solved that by adding a reset button at the bottom.
+It was difficult learning the difference between append vs appendchild and learning how to use apppendchild. I'm still not pretty sure about what appendchild does but I was able to utilize it properly.
