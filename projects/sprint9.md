@@ -1,20 +1,20 @@
 ---
-title: JavaScript Snake Game
+title: JavaScript Calculator
 layout: page
 ---
 
 ## Inspiration
 
-This was supposed to be the Capstone for this Course, so I created a game that I knew everyone loved!
+This project was used to help practice javascript and help me to learn the mechanics mainly. It was created years ago.
 
 ## What it does
 
-It follows the same controls as the Snake Game, but once you run into the wall, you have to press the button at the bottom to reset the game.
+It works the same as a basic calculator.
 
-## How we built it
+## How it was built
 
-I followed a tutorial over how to do it. It used mainly JavaScript.
+I utilized what I learnt in my Enlight cohort to create a calculator using basic javascript mechanics.
 
 ## Challenge we ran into
 
-The only challenge I ran into was resetting the game. I solved that by adding a reset button at the bottom.
+It wasn't that much of a challenge since I pick things up easily.
