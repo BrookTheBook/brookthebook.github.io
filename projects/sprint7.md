@@ -1,20 +1,20 @@
 ---
-title: JavaScript Snake Game
+title: Real Time Chat API
 layout: page
 ---
 
 ## Inspiration
 
-This was supposed to be the Capstone for this Course, so I created a game that I knew everyone loved!
+This project was created to help me learn more of how to use APIs and how Chat apps are made. It gives me more insight on how much work goes behind chat programs.
 
 ## What it does
 
-It follows the same controls as the Snake Game, but once you run into the wall, you have to press the button at the bottom to reset the game.
+This web application asks for a user and then asks for a message. It then shows up on the chat box.
 
 ## How we built it
 
-I followed a tutorial over how to do it. It used mainly JavaScript.
+The program uses the firebase API to make the chat function. Javascript is used to create each element and implement the chat process.
 
 ## Challenge we ran into
 
-The only challenge I ran into was resetting the game. I solved that by adding a reset button at the bottom.
+The main challenge was figuring out to code it in general. It was a new experience creating a chat app and I'm thankful for what I've learnt while making it.
