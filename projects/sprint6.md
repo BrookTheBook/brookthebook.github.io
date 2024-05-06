@@ -1,11 +1,11 @@
 ---
-title: JavaScript Snake Game
+title: Python Password Encryption
 layout: page
 ---
 
 ## Inspiration
 
-This was supposed to be the Capstone for this Course, so I created a game that I knew everyone loved!
+The inspiration for this was a workshop from Major League Hacking: Build.
 
 ## What it does
 
